@@ -339,5 +339,4 @@ GROUP BY c.name
 ORDER BY avg_order_value DESC
 LIMIT 3;
 
--- Short products by stock level
 

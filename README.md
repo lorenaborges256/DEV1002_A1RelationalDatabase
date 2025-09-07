@@ -22,3 +22,8 @@ This project support business analyze performance and customer behavior. The sys
 - No transitive dependencies (All fields must only be determinable by the PK not by other keys)
 - Database must be in 1NF and 2NF
 
+# ERD Charts
+
+These ERD diagrams were developed by following the structured approach introduced in class. The process began with identifying entities, their attributes, and the relationships between them. Cardinality was then defined, followed by the application of data normalization principles to refine the table structures.
+
+![ERD Charts made in Lucid App](A1ERD.png)
