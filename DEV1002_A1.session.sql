@@ -270,7 +270,7 @@ SELECT po.orders_id,
        SUM(po.order_qty * p.price) AS total_paid
 FROM products_order po
 JOIN products p ON po.product_id = p.product_id
-WHERE po.orders_id = '#0832'
+WHERE po.orders_id = '0832'
 GROUP BY po.orders_id;
 
 ---------------------------------------------------------------

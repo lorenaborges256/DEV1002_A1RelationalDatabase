@@ -7,6 +7,7 @@ Each customer can place multiple orders, and each order can include several prod
 This project support business analyze performance and customer behavior. The system keeps track of customers, the items they purchase, and how much they have spent in store. Also it can calculate the total revenue per category, the average order value per customer.
 
 
+
 # Normalization
 ## Concepts
 1NF
@@ -26,4 +27,10 @@ This project support business analyze performance and customer behavior. The sys
 
 These ERD diagrams were developed by following the structured approach introduced in class. The process began with identifying entities, their attributes, and the relationships between them. Cardinality was then defined, followed by the application of data normalization principles to refine the table structures.
 
-![ERD Charts made in Lucid App](A1ERD.png)
+![ERD Charts made in Lucid App](pictures/A1ERD.png)
+
+## Tables created
+
+Those 7 tables were created after the final Entity Relational Diagram.
+
+![Tables created following the ERD Diagrams](pictures/A1_tables.png)
